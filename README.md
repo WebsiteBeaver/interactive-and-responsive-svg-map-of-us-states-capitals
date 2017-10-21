@@ -1,5 +1,11 @@
-# interactive-and-responsive-svg-map-of-us-states-capitals
+# Interactive and Responsive SVG Map of US States and Capitals
 SVG map of the United States that allows you to hover each state to see its capital
+
+<img src="https://user-images.githubusercontent.com/26162804/31851785-e360c17a-b63a-11e7-981e-7086ace10176.png" width=600 />
+
+## Demo
+
+Check out [this demo](https://codepen.io/dmarcus/pen/oLGGNz) to see what the result looks like.
 
 ## License
 MIT License
