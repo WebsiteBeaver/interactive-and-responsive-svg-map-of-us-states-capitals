@@ -30,3 +30,7 @@ path:hover, circle:hover {
   padding: 5px;
   font-family: arial;
 }
+.persian{
+  direction: rtl;
+  font-family: 'Vazir', sans-serif !important;
+}
