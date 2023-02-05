@@ -13,6 +13,14 @@ path:hover, circle:hover {
   fill: #002868 !important;
   cursor: pointer;
 }
+path:active, circle:active {
+  stroke: #002868 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  fill: #002868 !important;
+  cursor: pointer;
+}
+
 #path67 {
   fill: none !important;
   stroke: #A9A9A9 !important;
